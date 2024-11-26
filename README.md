@@ -2,6 +2,9 @@
 
 A simple **chatting app** built using **Jetpack Compose** to explore and learn Google's modern declarative UI toolkit for Android.  
 
+##Download
+-Download the app from here [Xchat](https://github.com/abhii2002/Xchat/releases/download/v1.0.0-alpha/app-debug.apk)
+
 ## Features ✨  
 - Real-time messaging UI  
 - Modern, responsive design  
