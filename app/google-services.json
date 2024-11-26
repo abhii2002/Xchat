@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "627034740519",
+    "project_id": "harvesthive-f12be",
+    "storage_bucket": "harvesthive-f12be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:627034740519:android:3914aca3848450d6f27b02",
+        "android_client_info": {
+          "package_name": "com.blissvine.xchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "627034740519-fjt6fo6sk4feti3ur6pqjne7i0h2rr4u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.blissvine.harvesthive",
+            "certificate_hash": "f32334844ea937d47243e30181e2f835db3be67e"
+          }
+        },
+        {
+          "client_id": "627034740519-4r35vuqltjjk594osrv85647t4fhahcu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlVTT7xNyncwg-ZTzF4KKD0tBRP0SLDUc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "627034740519-4r35vuqltjjk594osrv85647t4fhahcu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
